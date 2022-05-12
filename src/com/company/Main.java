@@ -9,6 +9,7 @@ public class Main{
 
         System.out.println("Hallo Welt");
 
+        System.out.println("Master");
         int i = Einlesen.nextInt();
     }
 }
